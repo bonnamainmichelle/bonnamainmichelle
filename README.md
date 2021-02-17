@@ -2,10 +2,7 @@
 - 👋 Olá,me chamo Michelle Bonnamain
 - 👀 Gosto de Web Designer,e me interesso pela área de UX/UI Design.
 - 🌱 I’m currently learning  Python,JavaScript,Html,Css.
--
-
-
-
+- Você pode me adicionar no Linkedin https://www.linkedin.com/in/michelle-bonnamain-82b240185/
 
 
 <!---
