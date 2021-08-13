@@ -1,4 +1,8 @@
+<!-- Image of Terminal Slackware -->
 
+<img src="https://elitelinux.neocities.org/githubterminallinuxchelly.svg" alt="Terminal Ubuntu" height="105" width="500">
+
+<!-- Your title -->
 
 - 💗 Eu me chamo Michelle  Bonnamain
 - Gosto da área de Web Design,UX/UI Design.
