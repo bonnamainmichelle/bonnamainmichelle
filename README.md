@@ -1,14 +1,16 @@
 <!-- Image of Terminal Slackware -->
 
 <img src="https://elitelinux.neocities.org/githubterminallinuxchelly.svg" alt="Terminal Ubuntu" height="105" width="500">
-
 <!-- Your title -->
+<h2> Hi, I'm Michelle Bonnamain from Brazil.</h2>
+<img align='right' src="https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="330">
+<p><em>Internet Systems at <a href="https://estacio.br/">University of Estácio de Sá</a></br>Developer Consultant at <a href="https://ecs.com.br/">ECS</a>
+</em></p>
 
-- 💗 Eu me chamo Michelle  Bonnamain
-- Gosto da área de Web Design,UX/UI Design.
-- Você pode me adicionar no Linkedin  https://www.linkedin.com/in/michelle-bonnamain-82b240185/
-- Você pode ver meus trabalhos no  Behance https://www.behance.net/michellebonnamain
-- Tenho um Blog pessoal onde eu publico textos autorais no Medium  https://chellyfox.medium.com/
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
+
 
 
 <!---
