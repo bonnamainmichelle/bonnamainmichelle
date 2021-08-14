@@ -1,5 +1,7 @@
 <!-- Your title -->
+
 <h2> Hi, I'm Michelle Bonnamain from Brazil.</h2>
+
 <img align='right' src="https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="330">
 <p><em>Internet Systems at <a href="https://estacio.br/">University of Estácio de Sá</a></br>Developer Consultant at <a href="https://ecs.com.br/">ECS</a>
 </em></p>
