@@ -1,6 +1,3 @@
-<!-- Image of Terminal Slackware -->
-
-<img src="https://elitelinux.neocities.org/githubterminallinuxchelly.svg" alt="Terminal Ubuntu" height="105" width="500">
 <!-- Your title -->
 <h2> Hi, I'm Michelle Bonnamain from Brazil.</h2>
 <img align='right' src="https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="330">
