@@ -4,8 +4,8 @@
 
 <img align='right' src="https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="270">
 
-<p><em>Internet Systems at <a href="https://estacio.br/">University of Estácio de Sá</a></br>Developer Consultant at <a href="https://ecs.com.br/">ECS</a>
-</em></p>
+<p><em>Internet Systems at <a href="https://estacio.br/">University of Estácio de Sá</a><br />Developer Consultant at <a href="https://ecs.com.br/">ECS</a><br />
+Coordinator of <a href="https://flisol.info/FLISOL2021">FLISOL Porto Alegre - RS</a></em></p>
 
 
 
@@ -22,7 +22,6 @@ aboutMe :: struct {
   tools :: string[];
   hobbies :: string[];
   funFact :: string;
-  techCommunities: :: string;
 } 
 
 main :: func(): void {
@@ -34,7 +33,6 @@ main :: func(): void {
     tools: ["PhpStorm", "VS Code", "Git", "GitLab", "GitHub", "Ubuntu"],
     hobbies: ["Coding", "Gaming", "RPG", "Draw", "Paint", "Learning a New Language", "Read Books", ],
     funFact: "Ada Lovelace, é considerada a primeira programadora da história."
-    techCommunities: "Coordinator of FLISOL Porto Alegre - RS"
   };
 
   println "Pronouns: ${bonnamain.pronouns}";
@@ -44,7 +42,6 @@ main :: func(): void {
   println "Tools I Know: ${bonnamain.tools}";
   println "My Hobbies: ${bonnamain.hobbies}";
   println "Fun Fact: ${bonnamain.funFact}";
-  println "TechCommunities: ${bonnamain.techCommunities}";
 }
 ```
 ---
