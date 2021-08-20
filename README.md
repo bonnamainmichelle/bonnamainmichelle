@@ -31,7 +31,6 @@ main :: func(): void {
     databases: ["MySQL", "SQL", "XAMPP", "Apache"],
     tools: ["PhpStorm", "VS Code", "Git", "GitLab", "GitHub", "Ubuntu"],
     hobbies: ["Coding", "Gaming", "RPG", "Draw", "Paint", "Learning a New Language", "Read Books",],
-
   };
 
   println "Pronouns: ${bonnamain.pronouns}";
