@@ -30,7 +30,7 @@ main :: func(): void {
     frameworks: ["React", "React Native", "Laravel", "Angular"],
     databases: ["MySQL", "SQL", "XAMPP", "Apache"],
     tools: ["PhpStorm", "VS Code", "Git", "GitLab", "GitHub", "Ubuntu"],
-    hobbies: ["Coding", "Gaming", "RPG", "Draw", "Paint", "Learning a New Language", "Read Books", ],
+    hobbies: ["Coding", "Gaming", "RPG", "Draw", "Paint", "Learning a New Language", "Read Books",],
 
   };
 
