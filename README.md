@@ -11,36 +11,7 @@ Coordinator of <a href="https://flisol.info/FLISOL2021">FLISOL Porto Alegre - RS
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```julia
-module main
 
-aboutMe :: struct {
-  pronouns :: string[];
-  languages :: string[];
-  frameworks :: string[];
-  databases :: string[];
-  tools :: string[];
-  hobbies :: string[];
-} 
-
-main :: func(): void {
-  bonnamain :: aboutMe = {
-    pronouns: ["she", "her"],
-    languages: ["JavaScript", "TypeScript", "PHP", "C#", "HTML", "CSS"],
-    frameworks: ["React", "React Native", "Laravel", "Angular"],
-    databases: ["MySQL", "SQL", "XAMPP", "Apache"],
-    tools: ["PhpStorm", "VS Code", "Git", "GitLab", "GitHub", "Ubuntu"],
-    hobbies: ["Coding", "Gaming", "RPG", "Draw", "Paint", "Learning a New Language", "Read Books",],
-  };
-
-  println "Pronouns: ${bonnamain.pronouns}";
-  println "Languages I Know: ${bonnamain.languages}";
-  println "Frameworks I Know: ${bonnamain.frameworks}";
-  println "Databases I Know: ${bonnamain.databases}";
-  println "Tools I Know: ${bonnamain.tools}";
-  println "My Hobbies: ${bonnamain.hobbies}";
-}
-```
 ---
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
