@@ -21,7 +21,6 @@ aboutMe :: struct {
   databases :: string[];
   tools :: string[];
   hobbies :: string[];
-  funFact :: string;
 } 
 
 main :: func(): void {
@@ -31,8 +30,6 @@ main :: func(): void {
     frameworks: ["React", "React Native", "Laravel", "Angular"],
     databases: ["MySQL", "SQL", "XAMPP", "Apache"],
     tools: ["PhpStorm", "VS Code", "Git", "GitLab", "GitHub", "Ubuntu"],
-    hobbies: ["Coding", "Gaming", "RPG", "Draw", "Paint", "Learning a New Language", "Read Books", ],
-    funFact: "Ada Lovelace, é considerada a primeira programadora da história."
   };
 
   println "Pronouns: ${bonnamain.pronouns}";
@@ -41,7 +38,6 @@ main :: func(): void {
   println "Databases I Know: ${bonnamain.databases}";
   println "Tools I Know: ${bonnamain.tools}";
   println "My Hobbies: ${bonnamain.hobbies}";
-  println "Fun Fact: ${bonnamain.funFact}";
 }
 ```
 ---
