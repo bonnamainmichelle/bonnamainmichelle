@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="270">
 
-<p><em>Internet Systems at <a href="https://estacio.br/">University of Estácio de Sá</a><br />Developer Consultant at <a href="https://ecs.com.br/">ECS</a><br />
+<p><em>Graduated in Internet Systems at <a href="https://estacio.br/">University of Estácio de Sá</a><br />Developer Consultant at <a href="https://ecs.com.br/">ECS</a><br />
 Coordinator of <a href="https://flisol.info/FLISOL2021">FLISOL Porto Alegre - RS</a></em></p>
 
 
