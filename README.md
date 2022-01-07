@@ -9,10 +9,21 @@ Coordinator of <a href="https://flisol.info/FLISOL2021">FLISOL Porto Alegre - RS
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 
-
----
+```javascript
+const Chelly = {
+  pronouns: "she" | "her",
+  code: ["JavaScript", "Typescript", "PHP", "Markdown", "HTML", "CSS"],
+  tools: ["Angular", "React", "Node.js", "Node.js", "Laravel", "SQLite", "MySql", "Git", " Photoshop"],
+  askMeAbout: ["web dev", "tech", "game"],
+  hobbies: ["Coding", "Gaming", "Draw", "Talking"],
+  techCommunities: {
+                        coorganizer: "FLISOL",
+                      },
+ challenge: "J'apprends le français"
+}
+```
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
