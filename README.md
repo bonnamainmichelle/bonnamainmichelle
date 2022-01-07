@@ -15,7 +15,7 @@ Coordinator of <a href="https://flisol.info/FLISOL2021">FLISOL Porto Alegre - RS
 const Chelly = {
   pronouns: "she" | "her",
   code: ["JavaScript", "Typescript", "PHP", "Markdown", "HTML", "CSS"],
-  tools: ["Angular", "React", "Node.js", "Node.js", "Laravel", "SQLite", "MySql", "Git", " Photoshop"],
+  tools: ["Angular", "React", "Node.js", "Laravel", "SQLite", "MySql", "Git", " Photoshop"],
   askMeAbout: ["web dev", "tech", "game"],
   hobbies: ["Coding", "Gaming", "Draw", "Talking"],
   techCommunities: {
