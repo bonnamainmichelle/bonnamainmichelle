@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img align='right' src=" https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="270">
+ 
