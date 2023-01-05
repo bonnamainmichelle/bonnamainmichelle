@@ -5,16 +5,17 @@
 ## QA Tester Automação Robot Framework
 ## Aqui você vai encontrar:
 
-❤️ Cenário de Caso de Teste
-❤️ Práticas de BDD
-❤️ Códigos de cursos e estudo aleatórios
-❤️ Robot Framework
+❤️ Cenário de Caso de Teste,
+❤️ Práticas de BDD,
+❤️ Códigos de cursos e estudo,
+❤️ Robot Framework,
+❤️ Documentação de boas práticas na criação de testes.
 
 
-<p> <em>Graduada em Sistemas para Internet <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
-<p> <em> Cursando Bacharel em Ciência da Computação <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
-<p> <em>Pós Graduação em Projetos de Aplicativos Móveis Multiplataforma <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
-<p><em>MBA em Segurança da Informação <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
+<p> <em>Sou Graduada em Sistemas para Internet pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
+<p> <em>Estou Cursando Bacharel em Ciência da Computação pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
+<p> <em>Tenho Pós Graduação em Projetos de Aplicativos Móveis Multiplataforma pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
+<p><em>Tenho MBA em Segurança da Informação pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
 </p>
   
 <div> 
