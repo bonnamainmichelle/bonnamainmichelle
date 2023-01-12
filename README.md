@@ -2,8 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="270">
 
-## QA Tester Automação Robot Framework
-## Aqui você vai encontrar:
+## QA- Quality Assurance
+
 
 <p> <em>Sou Graduada em Sistemas para Internet pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
 <p> <em>Estou Cursando Bacharel em Ciência da Computação pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
