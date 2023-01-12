@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/michelle-bonnamain/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
-   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=bonnamainmichelle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-
-
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 
