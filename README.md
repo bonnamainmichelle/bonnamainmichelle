@@ -2,11 +2,11 @@
 
 <img align='right' src="https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="270">
 
-## QA- Quality Assurance | Cypress
+## QA- Quality Assurance | Cypress | Robot
 
 
 <p> <em>Sou Graduada em Sistemas para Internet pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
-<p> <em>Estou Cursando Bacharel em Ciência da Computação pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
+<p> <em>Estou Tecnólogo em Análise e Desenvolvimento de Sistemas pela <a href="https://unisinos.br/">Faculdade do Vale do Sinos - Unisinos</a><br />
 <p> <em>Tenho Pós Graduação em Projetos de Aplicativos Móveis Multiplataforma pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
 <p><em>Tenho MBA em Segurança da Informação pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
 </p>
