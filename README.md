@@ -8,6 +8,7 @@
 <p> <em>Sou Graduada em Sistemas para Internet pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
 <p> <em>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela <a href="https://unisinos.br/">Faculdade do Vale do Sinos - Unisinos</a><br />
 <p> <em>Tenho Pós Graduação em Projetos de Aplicativos Móveis Multiplataforma pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
+<p> <em>Tenho Pós Graduação em Gestão de Teste de Software <a href="https://faveni.br/">Faculdade Faveni</a><br />
 <p><em>Tenho MBA em Segurança da Informação pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
 </p>
   
