@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="270">
 
-## QA- Quality Assurance | Cypress | Robot | Playwright
+## QA- Quality Assurance - Automação | Cypress | Robot | Playwright
 
 
 <p> <em>Sou Graduada em Sistemas para Internet pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
