@@ -2,27 +2,26 @@
 <h2> Hi, I'm Michelle Bonnamain! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/dsdKSJjWGaWZw8tgTo/giphy.gif" width="270">
 <p><em>Analista De Testes Automatizados na <a href="https://www.philips.com.br//">Philips</a><br />
-<p> <em> Graduada em Sistemas para Internet pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
-<p> <em>Pós Graduação em Projetos de Aplicativos Móveis Multiplataforma pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
-<p> <em>Pós Graduação em Gestão de Teste de Software <a href="https://faveni.br/">Faculdade Faveni</a><br />
-<p><em>MBA em Segurança da Informação pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
-</p> 
+Graduada em Sistemas para Internet pela <a href="https://estacio.br/">Faculdade Estácio de Sá</a><br />
+Pós Graduação em Projetos de Aplicativos Móveis Multiplataforma pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
+Pós Graduação em Gestão de Teste de Software <a href="https://faveni.br/">Faculdade Faveni</a><br />
+MBA em Segurança da Informação pela <a href="https://descomplica.br/">Faculdade Descomplica</a><br />
+</p> </em>
 
 [![GitHub Michelle Bonnamain](https://img.shields.io/github/followers/bonnamainmichelle?label=follow&style=social)](https://github.com/bonnamainmichelle)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const chelly = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, PHP, C#, SQL],
+  tools: [React, Node, Laravel, My SQL, Robot Framework, Cypress, Playwright],
+  hobbies: [Coding, Gaming, Reading, Draw],
   techCommunities: {
-                        coorganizer: "AfroPython",
+                        coorganizer: "FLISoL Porto Alegre RS",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I'm studying for certification CTFL"
 }
 ```
 
